@@ -9,15 +9,8 @@
 <body>
     <section>
         <div>
-            <h1>Skills</h1>
-            <ul>
-                <li>{{ $first }}</li>
-                <li>{{ $second }}</li>
-                <li>{{ $third }}</li>
-                <li>{{ $fourth }}</li>
-                <li>{{ $fifth }}</li>
-                <li>{{ $sixth }}</li>
-            </ul>
+            <h1>WELCOME TO MY PERSONAL INFORMATION</h1>
+            <p> Choose among the below buttons to start browsing</p>
         </div> 
      </section>
         
